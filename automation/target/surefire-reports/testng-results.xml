@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="7506" started-at="2016-08-30T06:46:07Z" finished-at="2016-08-30T06:46:14Z">
+  <suite name="Suite" duration-ms="20889" started-at="2016-08-30T09:53:06Z" finished-at="2016-08-30T09:53:27Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="7506" started-at="2016-08-30T06:46:07Z" finished-at="2016-08-30T06:46:14Z">
+    <test name="Test" duration-ms="20889" started-at="2016-08-30T09:53:06Z" finished-at="2016-08-30T09:53:27Z">
       <class name="com.lnt.framework.suite.TestSuite">
-        <test-method status="PASS" signature="firstTest()[pri:0, instance:com.lnt.framework.suite.TestSuite@643faf]" name="firstTest" duration-ms="7490" started-at="2016-08-30T12:16:07Z" finished-at="2016-08-30T12:16:14Z">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:com.lnt.framework.suite.TestSuite@df4efb]" name="firstTest" duration-ms="20889" started-at="2016-08-30T15:23:06Z" finished-at="2016-08-30T15:23:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstTest -->
