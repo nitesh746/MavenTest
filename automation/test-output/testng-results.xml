@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21442" started-at="2016-08-30T06:45:14Z" finished-at="2016-08-30T06:45:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21442" started-at="2016-08-30T06:45:14Z" finished-at="2016-08-30T06:45:36Z">
+      <class name="com.lnt.framework.suite.TestSuite">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:com.lnt.framework.suite.TestSuite@eff760]" name="firstTest" duration-ms="21410" started-at="2016-08-30T12:15:14Z" finished-at="2016-08-30T12:15:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+      </class> <!-- com.lnt.framework.suite.TestSuite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
